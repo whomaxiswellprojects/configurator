@@ -1,0 +1,23 @@
+{
+  "name": "easy-configurator",
+  "version": "1.0.1",
+  "description": "A Config Manager that can be easy to use, it can save and load files",
+  "main": "Configurator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whomaxiswellprojects/configurator.git"
+  },
+  "keywords": [
+    "config",
+    "json"
+  ],
+  "author": "whomaxiswellprojects",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whomaxiswellprojects/configurator/issues"
+  },
+  "homepage": "https://github.com/whomaxiswellprojects/configurator#readme"
+}
