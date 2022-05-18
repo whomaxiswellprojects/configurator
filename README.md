@@ -39,7 +39,7 @@ config.save(); // the save function overwrites the file that existed in the work
 # Utilities
 - [x] Saving
 - [x] Loading
-- [] AutoSaving
+- [0] AutoSaving
 
 # Credits
 <h1>WhomaxiswellProjects (R) Copyright-claimed 2016</h1>
